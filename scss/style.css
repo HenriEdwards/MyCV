@@ -1,0 +1,46 @@
+.h1 {
+  font-family: "Courier";
+  letter-spacing: 0.2rem;
+}
+
+h2 {
+  font-family: "Roboto";
+  font-size: 15pt;
+}
+
+h3 {
+  font-family: "Roboto";
+  font-size: 12.5pt;
+  color: #585858;
+  margin-top: 20px;
+}
+
+body {
+  font-family: "Roboto";
+  background-color: #242424;
+  color: #3d3d3d;
+  font-size: 14.5px;
+}
+
+.no-bullet {
+  list-style-type: none;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+.square {
+  background-color: #f8f8f8;
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+
+.top-margin {
+  margin-top: 59px;
+}
+
+.custom-list li {
+  margin-bottom: 10px;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,55 @@
+$primary-font: 'Courier';
+$secondary-font: 'Roboto';
+
+// headers
+.h1 {
+  font-family: $primary-font;
+  letter-spacing: 0.2rem;
+}
+h2{
+  font-family: $secondary-font;
+  font-size: 15pt;
+}
+h3{
+  font-family: $secondary-font;
+  font-size: 12.5pt;
+  color: #585858;
+  margin-top: 20px;
+}
+
+// body
+body{
+  font-family: $secondary-font;
+  background-color: #242424;
+  color: #3d3d3d;
+  font-size: 14.5px;
+}
+
+// lists
+.no-bullet {
+  list-style-type: none;
+}
+
+// paragraphs
+p {
+  margin-bottom: 10px;
+}
+
+// grid system column adjustments
+.square {
+  background-color: #f8f8f8;
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+
+
+//  custom margin for cont. columns
+.top-margin{
+  margin-top: 59px;
+}
+
+// custom list spacing
+.custom-list li{
+  margin-bottom: 10px;
+}
