@@ -7,7 +7,6 @@ Curriculum Vitae (CV). It includes information about my educational background, 
 
 1. How to run the Website.
 2. Usage of the Website.
-3. Credits
 
 ### How to run the Website.
 
