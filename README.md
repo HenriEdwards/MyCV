@@ -14,6 +14,6 @@ Curriculum Vitae (CV). It includes information about my educational background, 
 
 ### Usage of the Website.
 
-** * Preview of Website.**
+**Website Preview**
 
 ![website preview](/images/CV-Landing.png)
